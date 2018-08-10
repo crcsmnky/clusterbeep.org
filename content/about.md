@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-08-10T10:47:47-05:00
-draft: true
+draft: false
 ---
 
 I am the Head of Retail Solutions for Google Cloud, developing reference architectures, best practices, and sample code for retailers looking to migrate and scale using public cloud infrastructure. My technical focus areas are container-based deployments and large-scale data technologies. 
