@@ -1,1 +1,1 @@
-# clusterbeep.org
+This site is powered by [Hugo](https://gohugo.io) using the [Cocoa](https://github.com/nishanths/cocoa-hugo-theme) theme, and is hosted using [Firebase](https://firebase.google.com).
