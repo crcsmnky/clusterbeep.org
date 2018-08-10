@@ -4,7 +4,7 @@ title = "Sandeep Parikh"
 theme = "cocoa"
 
 builddrafts         = false
-canonifyurls        = true
+canonifyurls        = false
 contentdir          = "content"
 layoutdir           = "layouts"
 publishdir          = "public"
@@ -15,7 +15,7 @@ pluralizelisttitles = false
 # googleAnalytics     = "UA-123-45"
 
 [permalinks]
-posts  = "posts/:slug/"
+posts  = "posts/:year/:month/:slug/"
 
 [[menu.main]]
 name = "Home"

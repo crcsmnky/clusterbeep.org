@@ -1,7 +1,9 @@
 ---
-title: "Mongodb and Spark Input"
+title: "MongoDB and Spark Input"
 date: 2014-07-14
 draft: false
+aliases:
+    - /post/107265215130/mongodb-and-spark-input
 ---
 
 Say your writing a [Spark](https://spark.apache.org) application and you want to pull in data from [MongoDB](https://mongodb.com). There are a couple of ways to accomplish this task.
