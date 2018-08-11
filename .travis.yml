@@ -1,0 +1,9 @@
+install:
+  - sudo pip install Pygments
+  - sudo apt-get install hugo
+script:
+  - hugo
+deploy:
+  provider: firebase
+  token: "$FIREBASE_TOKEN"
+  
