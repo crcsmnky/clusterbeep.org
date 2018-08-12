@@ -1,10 +1,12 @@
-language: go
-go:
-  - master
+before_install:
+  - sudo apt-get update
+
 install:
   - sudo pip install Pygments
-  - go get github.com/spf13/hugo
+  - sudo apt-get install -y hugo
+
 script: hugo
+
 deploy:
   provider: firebase
   token: $FIREBASE_TOKEN
