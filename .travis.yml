@@ -1,12 +1,12 @@
-language: go
+dist: trusty
 
 sudo: required
 
 install:
-  - sudo pip install Pygments
-  - go get github.com/spf13/hugo
+  - sudo apt-get -y install snapd
+  - sudo snap install hugo
 
-script: hugo
+script: /snap/bin/hugo 
 
 deploy:
   provider: firebase
