@@ -4,5 +4,9 @@
     {{ else }}
     <span class="meta"><time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Date.Format "Jan 2, 2006" }}</time></span>
     {{ end }}
-    <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+    {{ if .Params.externalLink }}
+        <a href="{{ .Params.externalLink }}" target="_blank"><span>{{ .Title }}</span> <code>↗</code></a>
+    {{ else }}
+        <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+    {{ end }}
 </li>
