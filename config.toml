@@ -30,6 +30,18 @@ identifier             = "posts"
 url                    = "/posts/"
 
 [[menu.main]]
+name                   = "Publications"
+weight                 = -120
+identifier             = "publications"
+url                    = "/publications/"
+
+[[menu.main]]
+name                   = "Presentations"
+weight                 = -120
+identifier             = "presentations"
+url                    = "/presentations/"
+
+[[menu.main]]
 name                   = "About"
 weight                 = -110
 identifier             = "about"

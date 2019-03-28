@@ -1,0 +1,16 @@
+---
+title: "Presentations"
+date: 2019-03-28
+draft: false
+---
+
+- Google Cloud Next 2018: [End-to-End Collaborative Data Platform](https://youtu.be/DXXIyNTzjmE)
+- Google Cloud Next 2018: [Proactively Stocking Inventory using Machine Learning](https://youtu.be/P9fL-Du_Yeo)
+- Google Cloud Next 2017: [Building a Collaborative Data Platform](https://www.youtube.com/watch?v=pogLXF97K68)
+- Google Cloud Next 2017: [Managing the Hybrid Data Lifecycle](https://www.youtube.com/watch?v=tGJBIY7AOLc)
+- O’Reilly Software Architecture 2017: [Kubernetes and Hybrid Deployments](https://speakerdeck.com/crcsmnky/kubernetes-and-hybrid-deployments)
+- MongoDB Europe 2016: [Using Apache Beam and BigQuery with MongoDB](https://www.mongodb.com/presentations/mongodb-europe-2016-warehousing-mongodb-data-using-apache-beam-and-bigquery)
+- MongoDB World 2016: [Deploying MongoDB on Google Cloud](https://speakerdeck.com/crcsmnky/mongodb-world-2016-mongodb-and-google-cloud)
+- KubeCon 2015: [Continuously Delivering Microservices in K8S using Jenkins](https://speakerdeck.com/crcsmnky/kubecon-continuously-delivering-microservices-in-kubernetes) ([video](https://www.youtube.com/watch?v=Odg_g_F55gs))
+- OpenStack Summit 2015: [Keynote: Kubernetes and OpenStack](https://youtu.be/VnRmfb6DUh8?t=42m30s)
+- MongoDB World 2014: [MongoDB & Hadoop, Driving Business Insights](https://www.mongodb.com/presentations/mongodb-and-hadoop-driving-business-insights)
