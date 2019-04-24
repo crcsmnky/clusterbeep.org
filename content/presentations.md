@@ -4,6 +4,9 @@ date: 2019-03-28
 draft: false
 ---
 
+- Google Cloud Next 2019: [Incrementally Adopting Istio](https://www.youtube.com/watch?v=0cgTHQFXYPQ)
+- Google Cloud Next 2019: [Service Management, the Easy Way](https://www.youtube.com/watch?v=Bvb12rY3N6w)
+- Google Cloud Next 2019: [Debugging Istio Workloads](https://www.youtube.com/watch?v=FbYBO7Pi2d8)
 - Google Cloud Next 2018: [End-to-End Collaborative Data Platform](https://youtu.be/DXXIyNTzjmE)
 - Google Cloud Next 2018: [Proactively Stocking Inventory using Machine Learning](https://youtu.be/P9fL-Du_Yeo)
 - Google Cloud Next 2017: [Building a Collaborative Data Platform](https://www.youtube.com/watch?v=pogLXF97K68)
