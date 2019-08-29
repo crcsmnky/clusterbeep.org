@@ -4,6 +4,7 @@ date: 2019-03-28
 draft: false
 ---
 
+- Open Source Summit 2019: [Service Mush: Debugging Istio Deployments](https://ossna19.sched.com/event/PVap)
 - Google Cloud Next 2019: [Incrementally Adopting Istio](https://www.youtube.com/watch?v=0cgTHQFXYPQ)
 - Google Cloud Next 2019: [Service Management, the Easy Way](https://www.youtube.com/watch?v=Bvb12rY3N6w)
 - Google Cloud Next 2019: [Debugging Istio Workloads](https://www.youtube.com/watch?v=FbYBO7Pi2d8)
