@@ -1,10 +1,10 @@
 ---
 title: "Presentations"
-date: 2019-03-28
+date: 2021-03-05
 draft: false
 ---
 
-- KubeCon NA 2019: [Enforcing Service Mesh Structure using OPA Gatekeeper](https://www.youtube.com/watch?v=90RHTBinAFU&t=703s)
+- KubeCon NA 2019: [Enforcing Service Mesh Structure using OPA Gatekeeper](https://www.youtube.com/watch?v=90RHTBinAFU)
 - Anthos Day @ KubeCon NA 2019: [Managing Policy and Configuration at Scale](https://www.youtube.com/watch?v=nhXJzjITgMA)
 - Open Source Summit 2019: [Service Mush: Debugging Istio Deployments](https://ossna19.sched.com/event/PVap)
 - Google Cloud Next 2019: [Incrementally Adopting Istio](https://www.youtube.com/watch?v=0cgTHQFXYPQ)
