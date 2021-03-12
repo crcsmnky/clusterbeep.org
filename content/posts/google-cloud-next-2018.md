@@ -12,7 +12,7 @@ The basic premise was somewhat simple: could standard in-store cameras be used t
 
 The talk was recorded and is available below. The code for my demos is at [crcsmnky/stocking-inventory](https://github.com/crcsmnky/stocking-inventory) on Github.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P9fL-Du_Yeo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube id="P9fL-Du_Yeo" title="Proactively Stocking Inventory using Machine Learning" >}}
 
 ### End to End Collaborative Data Workflows
 
@@ -26,4 +26,4 @@ My goal for this talk was to walk through the order of operations and tools need
 
 The talk was recorded and is available below. I'm still working on making some of the demo code available.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DXXIyNTzjmE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube id="DXXIyNTzjmE" title="End-to-End Collaborative Data Platform" >}}
