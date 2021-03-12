@@ -1,8 +1,10 @@
 ---
-title: "Presentations"
-date: 2021-03-05
+title: "Works"
+date: 2021-03-12
 draft: false
 ---
+
+### Presentations
 
 - KubeCon NA 2019: [Enforcing Service Mesh Structure using OPA Gatekeeper](https://www.youtube.com/watch?v=90RHTBinAFU)
 - Anthos Day @ KubeCon NA 2019: [Managing Policy and Configuration at Scale](https://www.youtube.com/watch?v=nhXJzjITgMA)
@@ -20,3 +22,16 @@ draft: false
 - KubeCon 2015: [Continuously Delivering Microservices in K8S using Jenkins](https://speakerdeck.com/crcsmnky/kubecon-continuously-delivering-microservices-in-kubernetes) ([video](https://www.youtube.com/watch?v=Odg_g_F55gs))
 - OpenStack Summit 2015: [Keynote: Kubernetes and OpenStack](https://youtu.be/VnRmfb6DUh8?t=42m30s)
 - MongoDB World 2014: [MongoDB & Hadoop, Driving Business Insights](https://www.mongodb.com/presentations/mongodb-and-hadoop-driving-business-insights)
+
+### Publications
+
+- [Distributed Load Testing Using Kubernetes](https://cloud.google.com/solutions/distributed-load-testing-using-kubernetes)
+- [Processing Logs at Scale Using Cloud Dataflow](https://cloud.google.com/solutions/processing-logs-at-scale-using-dataflow)
+- [Building Real-Time Inventory Systems using Google Cloud](https://cloud.google.com/solutions/building-real-time-inventory-systems-retail)
+- [Architecture: Complex Event Processing using Google Cloud](https://cloud.google.com/solutions/architecture/complex-event-processing)
+- [Google Cloud Data Lifecycle](https://cloud.google.com/solutions/data-lifecycle-cloud-platform)
+- [Heterogeneous Deployment Patterns using Kubernetes](https://cloud.google.com/solutions/heterogeneous-deployment-patterns-with-kubernetes)
+- [Architecture: SAP Hybris on Google Cloud](https://cloud.google.com/solutions/architecture/sap-hybris-deployment)
+- [Architecture: Magento on Google Cloud](https://cloud.google.com/solutions/architecture/magento-deployment)
+- [Architecture: Commerce Workloads using Microservices](https://cloud.google.com/solutions/architecture/scaling-commerce-workloads-architecture)
+- [Deploying MongoDB using Google Cloud](https://cloud.google.com/solutions/deploy-mongodb)

@@ -25,21 +25,21 @@ url = "/"
 
 [[menu.main]]
 name                   = "Posts"
-weight                 = -120
+weight                 = -130
 identifier             = "posts"
 url                    = "/posts/"
 
 [[menu.main]]
-name                   = "Publications"
+name                   = "Works"
 weight                 = -120
-identifier             = "publications"
-url                    = "/publications/"
+identifier             = "works"
+url                    = "/works/"
 
-[[menu.main]]
-name                   = "Presentations"
-weight                 = -120
-identifier             = "presentations"
-url                    = "/presentations/"
+# [[menu.main]]
+# name                   = "Presentations"
+# weight                 = -120
+# identifier             = "presentations"
+# url                    = "/presentations/"
 
 [[menu.main]]
 name                   = "About"
