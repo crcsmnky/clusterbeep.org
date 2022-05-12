@@ -1,6 +1,6 @@
 ---
 title: "Works"
-date: 2021-03-12
+date: 2022-05-12
 draft: false
 ---
 
@@ -25,6 +25,11 @@ draft: false
 
 ### Publications
 
+- [ACM best practices for operating large scale deployments](https://cloud.google.com/anthos-config-management/docs/concepts/best-practices-large-scale-deployment)
+- [Anthos under the hood: The tech that will transform enterprise apps](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html)
+- [The evolution of Istio's APIs](https://istio.io/blog/2019/evolving-istios-apis/)
+- [Using Istio and Stackdriver to Build an SRE Service](https://cloud.google.com/blog/products/devops-sre/the-service-mesh-era-using-istio-and-stackdriver-to-build-an-sre-service)
+- [Incremental Istio: Traffic Management](https://istio.io/blog/2018/incremental-traffic-management/)
 - [Distributed Load Testing Using Kubernetes](https://cloud.google.com/solutions/distributed-load-testing-using-kubernetes)
 - [Processing Logs at Scale Using Cloud Dataflow](https://cloud.google.com/solutions/processing-logs-at-scale-using-dataflow)
 - [Building Real-Time Inventory Systems using Google Cloud](https://cloud.google.com/solutions/building-real-time-inventory-systems-retail)
