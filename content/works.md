@@ -6,9 +6,17 @@ draft: false
 
 ### Presentations
 
+- WTF is SRE ‘22: [We Want Reliable and Secure Software, But Like Why?](https://www.youtube.com/watch?v=moxtTwoLny8)
+- [Cloud Innovators DevOps Tech Talks (playlist)](https://youtube.com/playlist?list=PLBgogxgQVM9vKWWgEro-Efqq1b_TKF6nO)
+- Modern DevOps: [Automating Deployment Operations](https://youtu.be/lRJrwbL9G_4)
+- GitLab Commit 21: [Bringing Kubernetes Policy Enforcement to GitLab](https://youtu.be/kAIn8xyUVls)
+- GitOpsCon EU 21: [Shifting Policy Enforcement Left using GitOps](https://youtu.be/XvQZ3ZDjRls)
+- Service Mesh in the Real World: [Securing Microservices using Istio](https://www.youtube.com/watch?v=6_iORQaYiaI) ([code](https://github.com/crcsmnky/securing-microservices-istio))
 - KubeCon NA 2019: [Enforcing Service Mesh Structure using OPA Gatekeeper](https://www.youtube.com/watch?v=90RHTBinAFU)
 - Anthos Day @ KubeCon NA 2019: [Managing Policy and Configuration at Scale](https://www.youtube.com/watch?v=nhXJzjITgMA)
+- Service Mesh in the Real World: [Multi-Tenant Ingress using Istio](https://www.youtube.com/watch?v=PuJN1C4z3Uw) ([code](https://github.com/crcsmnky/istio-multi-ingress))
 - Open Source Summit 2019: [Service Mush: Debugging Istio Deployments](https://ossna19.sched.com/event/PVap)
+- Service Mesh in the Real World: [Managing Egress using Istio](https://www.youtube.com/watch?v=hjTLSaK4PH8) ([code](https://github.com/crcsmnky/istio-egress-gateway))
 - Google Cloud Next 2019: [Incrementally Adopting Istio](https://www.youtube.com/watch?v=0cgTHQFXYPQ)
 - Google Cloud Next 2019: [Service Management, the Easy Way](https://www.youtube.com/watch?v=Bvb12rY3N6w)
 - Google Cloud Next 2019: [Debugging Istio Workloads](https://www.youtube.com/watch?v=FbYBO7Pi2d8)
