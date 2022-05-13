@@ -7,7 +7,7 @@ draft: false
 ### Presentations
 
 - WTF is SRE ‘22: [We Want Reliable and Secure Software, But Like Why?](https://www.youtube.com/watch?v=moxtTwoLny8)
-- [Cloud Innovators DevOps Tech Talks (playlist)](https://youtube.com/playlist?list=PLBgogxgQVM9vKWWgEro-Efqq1b_TKF6nO)
+- Cloud Innovators: [DevOps Tech Talks](https://youtube.com/playlist?list=PLBgogxgQVM9vKWWgEro-Efqq1b_TKF6nO)
 - Modern DevOps: [Automating Deployment Operations](https://youtu.be/lRJrwbL9G_4)
 - GitLab Commit 21: [Bringing Kubernetes Policy Enforcement to GitLab](https://youtu.be/kAIn8xyUVls)
 - GitOpsCon EU 21: [Shifting Policy Enforcement Left using GitOps](https://youtu.be/XvQZ3ZDjRls)
